@@ -29,6 +29,6 @@ This project presents an interactive Power BI dashboard built using the Global S
 - Global sales distribution (map visualization)
 
 ## 🖼 Dashboard Preview
-![Dashboard Overview](Image/sales_dashboard.png)
+![Dashboard Overview](Image/sales dashboard.png)
 
 ## 📁 Files in This Repository
